@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...software develpoment
 - 🌱 I’m currently learning ...c++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...as3411643@gmail.com
+- 📫 How to reach me ...adityasinghrajput0217@gmail.com
 
 <!---
 Arnoldaditya17/Arnoldaditya17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
