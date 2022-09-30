@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arnoldaditya17
 - 👀 I’m interested in ...software develpoment
-- 🌱 I’m currently learning ...c++
+- 🌱 I’m currently learning ...c++,dsa,kali linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...adityasinghrajput0217@gmail.com
 
