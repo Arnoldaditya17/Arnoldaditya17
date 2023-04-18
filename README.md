@@ -8,6 +8,7 @@
 - 👨‍💻 All of my projects are available at [http://adityasinghrajput.me/](http://adityasinghrajput.me/)
 
 - 📫 How to reach me **adityasinghrajput0217@gmail.com**
+<img align="right" width="400px" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
