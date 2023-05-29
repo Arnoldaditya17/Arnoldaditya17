@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **c++,dsa,java,kali linux**
 
-- 👨‍💻 All of my projects are available at [http://adityasinghrajput.me/](http://adityasinghrajput.me/)
+- 👨‍💻 All of my projects are available at [http://adityasinghrajput.me/](https://adityasinghrajput.me/)
 
 - 📫 How to reach me **adityasinghrajput0217@gmail.com**
 <img align="right" width="350px" src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif">
