@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Singh Rajput</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="500" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldaditya17&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldaditya17" /> </p>
 
