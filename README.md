@@ -1,3 +1,5 @@
+![Animated Text](path/to/your/animated-text.gif)
+
 <br><img align="center" alt="coding" width="600"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/pixels-neon.gif">
 <br><br>
 
