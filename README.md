@@ -9,17 +9,17 @@
 
 
 
-- 🔭 I’m currently working on **Av Hall Booking System**
+- 🔭 I’m currently working on: **AVHall Booking System**
 
-- 🌱 I’m currently learning **JAVA with DSA and SPRING BOOT frame work**
+- 🌱 I’m currently learning: **JAVA with DSA and SPRING BOOT frame work**
 
-- 👨‍💻 My Portfolio Web Site [https://adityasinghrajput.me/](https://adityasinghrajput.me/)
+- 👨‍💻 My Portfolio Web Site: [https://adityasinghrajput.me/](https://adityasinghrajput.me/)
 
-- 💬 Ask me about **CYBER SECURITY and ANDRIOD**
+- 💬 Ask me about: **CYBER SECURITY and ANDRIOD**
 
-- 📫 How to reach me **adityasinghrajput02@gmail.com**
+- 📫 How to reach me: **adityasinghrajput02@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact: **I Think I am Funny**
   
 <br><br>
 <h3 align="left">Connect with me:</h3>
