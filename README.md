@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **JAVA with DSA and SPRING BOOT frame work**
 
-- 👨‍💻 All of my projects are available at [https://adityasinghrajput.me/](https://adityasinghrajput.me/)
+- 👨‍💻 My Portfolio Web Site [https://adityasinghrajput.me/](https://adityasinghrajput.me/)
 
 - 💬 Ask me about **CYBER SECURITY and ANDRIOD**
 
