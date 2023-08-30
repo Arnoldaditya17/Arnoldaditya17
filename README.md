@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on:- **AV Hall Booking System**
 
-- 🌱 I’m currently learning:- **JAVA with DSA and SPRING BOOT frame work**
+- 🌱 I’m currently learning:- **JAVA with DSA,FLUTTER and SPRING BOOT frame work**
 
 - 👨‍💻 My Portfolio Web Site:- [https://adityasinghrajput.me/](https://adityasinghrajput.me/)
 
