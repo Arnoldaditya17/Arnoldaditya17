@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldaditya17&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldaditya17" /> </p>
 <br><br>
-<img align="right" alt="coding" width="900" height="400" src="">
+<img align="right" alt="coding" width="400"  src="">
 
 
 - 🔭 I’m currently working on:- **AV Hall Booking System**
