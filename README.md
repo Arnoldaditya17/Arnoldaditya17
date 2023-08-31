@@ -1,6 +1,6 @@
 
 
-<br><img align="center" alt="coding" width="850" height="400" src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/image1.gif">
+<br><img align="center" alt="coding" width="850"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/image1.gif">
 <br><br>
 
 <h1 align="center">Hi 👋, I'm Aditya Singh Rajput</h1>
