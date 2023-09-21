@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning:- **JAVA with DSA,FLUTTER and SPRING BOOT frame work**
 
-- 👨‍💻 My Portfolio Web Site:- [https://adityasinghrajput.me/](https://adityasinghrajput.me/)
+- 👨‍💻 My Portfolio Web Site:- [https://adityasinghrajput.me/](https://adityasinghrajput.netlify.app/#home)
 
 - 💬 Ask me about:- **CYBER SECURITY and ANDRIOD**
 
