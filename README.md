@@ -19,7 +19,7 @@
 
 - 💬 Ask me about:- **CYBER SECURITY and ANDRIOD**
 
-- 📫 How to reach me:- **adityasinghrajput02@gmail.com**
+- 📫 How to reach me:- **adityasinghrajput0217@gmail.com**
 
 - ⚡ Fun fact:- **I Think I am Funny**
   
