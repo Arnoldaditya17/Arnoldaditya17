@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning:- **JAVA with DSA,FLUTTER and SPRING BOOT frame work**
 
-- 👨‍💻 My Portfolio Web Site:- [https://adityasinghrajput.me](https://adityasinghrajput.netlify.app/#home)
+- 👨‍💻 My portfolio Website:- [https://adityasinghrajput.me](https://adityasinghrajput.netlify.app/#home)
 
 - 💬 Ask me about:- **Java,System Design,DSA,Flutter,Cyber Security**
 
 - 📫 How to reach me:- **adityasinghrajput0217@gmail.com**
 
-- ⚡ Fun fact:- **I Think I am Funny**
+- ⚡ Fun fact:- **Can cook best veg pulao 🥗🥘**
 
   
 <br>
