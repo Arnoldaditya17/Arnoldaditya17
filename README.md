@@ -10,19 +10,19 @@
 <br>
 
 
-<p align="center">
+
 - 🔭 I’m currently working on:- **AV Hall Booking System**
 
 - 🌱 I’m currently learning:- **JAVA with DSA,FLUTTER and SPRING BOOT frame work**
 
 - 👨‍💻 My Portfolio Web Site:- [https://adityasinghrajput.me](https://adityasinghrajput.netlify.app/#home)
 
-- 💬 Ask me about:- Java,System Design,DSA,Flutter,Cyber Security
+- 💬 Ask me about:- **Java,System Design,DSA,Flutter,Cyber Security**
 
 - 📫 How to reach me:- **adityasinghrajput0217@gmail.com**
 
 - ⚡ Fun fact:- **I Think I am Funny**
-  </p>
+
   
 <br>
 <h3 align="left">Connect with me:</h3>
