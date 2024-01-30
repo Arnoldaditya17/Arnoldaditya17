@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate JAVA DEVELOPER From India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldaditya17&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldaditya17" /> </p>
-<br><br>
+<br>
 <p><img align="right" alt="coding" width="400"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/api-c99e353f761d318322c853c03ebcf21b.gif"></p>
 
 
@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact:- **I Think I am Funny**
   
-<br><br>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/adityasinghrajput" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
