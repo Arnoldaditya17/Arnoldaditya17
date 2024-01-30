@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldaditya17&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldaditya17" /> </p>
 <br>
-<p><img align="right" alt="coding" width="400"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/api-c99e353f761d318322c853c03ebcf21b.gif"></p>
 
 
+<p align="center">
 - 🔭 I’m currently working on:- **AV Hall Booking System**
 
 - 🌱 I’m currently learning:- **JAVA with DSA,FLUTTER and SPRING BOOT frame work**
@@ -22,6 +22,7 @@
 - 📫 How to reach me:- **adityasinghrajput0217@gmail.com**
 
 - ⚡ Fun fact:- **I Think I am Funny**
+  </p>
   
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -66,4 +67,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnoldaditya17&show_icons=true&locale=en" alt="arnoldaditya17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldaditya17&" alt="arnoldaditya17" /></p>
+
 
