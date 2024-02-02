@@ -22,7 +22,7 @@
 
 - 📫 How to reach me:- **adityasinghrajput0217@gmail.com**
 
-- ⚡ Fun fact:- **Can cook best veg pulao 🥗🥘**
+- ⚡ Fun fact:- **people love me ❤**
 
   
 <br>
