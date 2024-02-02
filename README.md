@@ -9,8 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldaditya17&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldaditya17" /> </p>
 <br>
 
-
-<img align="right" alt="coding" width="350"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/gif3.gif">
+<br>
+<img align="right" alt="coding" width="350"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/gif3.gif"><br>
 
 - 🔭 I’m currently working on:- **Watchlist Application**
 
