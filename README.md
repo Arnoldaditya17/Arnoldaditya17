@@ -12,7 +12,7 @@
 
 <img align="right" alt="coding" width="350"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/gif3.gif">
 
-- 🔭 I’m currently working on:- **Watchlist Application**
+- 🔭 I’m currently working on:- ** Movie Watchlist Application**
 
 - 🌱 I’m currently learning:- **JAVA with DSA,FLUTTER and SPRING BOOT frame work**
 
