@@ -22,7 +22,7 @@
 
 - 📫 How to reach me:- **adityasinghrajput0217@gmail.com**
 
-- ⚡ Fun fact:- **people love me ❤**
+- ⚡ Fun fact:- **People love me ❤**
 
   
 <br>
