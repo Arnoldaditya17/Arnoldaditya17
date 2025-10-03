@@ -12,19 +12,12 @@
 
 <img align="right" alt="coding" width="350"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/gif3.gif">
 
-- 🔭 I’m currently working on:- **Movie Watchlist Application**
+- 👨‍💻 My portfolio Website:- [techwithaditya.in](https://techwithaditya.in/)
 
-- 🌱 I’m currently learning:- **JAVA with DSA,FLUTTER and SPRING BOOT frame work**
-
-- 👨‍💻 My portfolio Website:- [adityasinghrajput.tech](https://portfolio-client-omega-rouge.vercel.app/)
-
-- 💬 Ask me about:- **Java,System Design,DSA,Flutter,Cyber Security**
+- 💬 Ask me about:- **Software Development & Software Architecture**
 
 - 📫 How to reach me:- **adityasinghrajput0217@gmail.com**
 
-- ⚡ Fun fact:- **People love me ❤**
-
-  
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
