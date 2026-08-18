@@ -22,37 +22,13 @@
 
 <h2>🛠️ Tech Stack</h2>
 
-<b>Languages</b>
+<img src="https://img.shields.io/badge/Languages-1E293B?style=flat-square" alt="Languages" />&nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Frontend-1E293B?style=flat-square" alt="Frontend" />&nbsp; <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
 
-<b>Frontend</b>
+<img src="https://img.shields.io/badge/Backend-1E293B?style=flat-square" alt="Backend" />&nbsp; <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-
-<b>Backend</b>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-
-<b>Databases &amp; Cloud</b>
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Apache Cassandra" />
+<img src="https://img.shields.io/badge/Data_and_Cloud-1E293B?style=flat-square" alt="Data and Cloud" />&nbsp; <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Cassandra" />
 
 <!--
 🚀 Featured Projects
@@ -68,30 +44,6 @@ Uncomment and fill in with real repos:
 | **[repo-name](https://github.com/arnoldaditya17/repo-name)** | Flutter · Firebase | One line on the problem it solves |
 | **[repo-name](https://github.com/arnoldaditya17/repo-name)** | Python · AWS | One line on the problem it solves |
 -->
-
-<h2>🎮 Play Tic-Tac-Toe Against My Bot</h2>
-
-<!-- XO:START -->
-
-<div align="center">
-
-Your turn — you are ❌, click any ⬜ to move.
-
-<table>
-<tr><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C0&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 1">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C1&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 2">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C2&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 3">⬜</a></td></tr>
-<tr><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C3&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 4">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C4&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 5">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C5&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 6">⬜</a></td></tr>
-<tr><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C6&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 7">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C7&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 8">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C8&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 9">⬜</a></td></tr>
-</table>
-
-You <b>0</b> &nbsp;·&nbsp; Bot <b>0</b> &nbsp;·&nbsp; Draws <b>0</b>
-
-<a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Creset&body=Just+click+Create+below."><img src="https://img.shields.io/badge/%F0%9F%94%84_Reset_Board-64748B?style=for-the-badge" alt="Reset board" /></a>
-
-<sub>Clicking a square opens a pre-filled issue — just press <b>Create</b>. The board updates automatically.</sub>
-
-</div>
-
-<!-- XO:END -->
 
 <h2>📊 GitHub Activity</h2>
 
