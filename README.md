@@ -69,6 +69,30 @@ Uncomment and fill in with real repos:
 | **[repo-name](https://github.com/arnoldaditya17/repo-name)** | Python · AWS | One line on the problem it solves |
 -->
 
+<h2>🎮 Play Tic-Tac-Toe Against My Bot</h2>
+
+<!-- XO:START -->
+
+<div align="center">
+
+Your turn — you are ❌, click any ⬜ to move.
+
+<table>
+<tr><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C0&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 1">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C1&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 2">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C2&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 3">⬜</a></td></tr>
+<tr><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C3&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 4">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C4&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 5">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C5&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 6">⬜</a></td></tr>
+<tr><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C6&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 7">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C7&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 8">⬜</a></td><td align="center" width="60" height="60"><a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Cmove%7C8&body=Just+click+**Create**+below+-+no+need+to+type+anything.+The+bot+replies+in+about+20+seconds." title="Play square 9">⬜</a></td></tr>
+</table>
+
+You <b>0</b> &nbsp;·&nbsp; Bot <b>0</b> &nbsp;·&nbsp; Draws <b>0</b>
+
+<a href="https://github.com/Arnoldaditya17/Arnoldaditya17/issues/new?title=xo%7Creset&body=Just+click+Create+below."><img src="https://img.shields.io/badge/%F0%9F%94%84_Reset_Board-64748B?style=for-the-badge" alt="Reset board" /></a>
+
+<sub>Clicking a square opens a pre-filled issue — just press <b>Create</b>. The board updates automatically.</sub>
+
+</div>
+
+<!-- XO:END -->
+
 <h2>📊 GitHub Activity</h2>
 
 <div align="center">
