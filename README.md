@@ -86,12 +86,15 @@ Uncomment and fill in with real repos:
 
 <div align="center">
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=arnoldaditya17&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&theme=tokyonight" alt="GitHub Stats" />
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldaditya17&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&theme=tokyonight" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=arnoldaditya17&hide_border=true&theme=tokyonight" alt="GitHub Streak" width="88%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arnoldaditya17&hide_border=true&area=true&theme=tokyo-night" alt="Contribution Activity Graph" width="88%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake.svg" width="88%" />
+</picture>
 
 </div>
 
@@ -105,78 +108,6 @@ Uncomment and fill in with real repos:
 <a href="https://www.instagram.com/shredded_banna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
-
-<details>
-<summary><b>🐍 Contribution Snake</b></summary>
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</details>
-
-<details>
-<summary><b>⚙️ Snake animation setup</b></summary>
-<br>
-
-Uses [`Platane/snk`](https://github.com/Platane/snk) to turn the contribution graph into an animated snake. Add this at `.github/workflows/snake.yml` in your `<username>/<username>` repo:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"   # twice a day
-  workflow_dispatch: {}
-  push:
-    branches: [main]
-
-permissions:
-  contents: write
-
-concurrency:
-  group: snake
-  cancel-in-progress: true
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-The SVGs above populate automatically once the workflow has run once.
-
-</details>
-
-<details>
-<summary><b>🩺 If a stats card shows a broken image</b></summary>
-<br>
-
-All three cards come from free shared instances that rate-limit under load. Paste the image URL straight into a browser tab to see the real error.
-
-- **Stats / Top Languages** — if `github-readme-stats.vercel.app` returns "Maximum retries exceeded" or a rate-limit error, fork [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats), deploy it to Vercel with your own `PAT_1` token, and swap the domain. Self-hosting is also the only way `count_private=true` actually counts private commits.
-- **Streak Stats** — `streak-stats.demolab.com` is the current official domain; the old `github-readme-streak-stats.herokuapp.com` died with Heroku's free tier. The demo instance does go down periodically — community-maintained mirrors like `github-readme-streak-stats-eight.vercel.app` work as a drop-in swap, or self-host from [`DenverCoder1/github-readme-streak-stats`](https://github.com/DenverCoder1/github-readme-streak-stats).
-- **Blank/empty card instead of an error** usually means the username in the URL doesn't match the account — worth double-checking `arnoldaditya17` in all four URLs.
-
-</details>
 
 <div align="center">
 
