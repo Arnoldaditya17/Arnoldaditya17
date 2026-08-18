@@ -1,124 +1,185 @@
+<div align="center">
 
-
-<br><img align="center" alt="coding" width="850"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/image1.gif">
-<br><br>
-
-<h1 align="center">Hi 👋, I'm Aditya Singh Rajput</h1>
-<h3 align="center">A Passionate SOFTWARE DEVELOPER From India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnoldaditya17&label=Profile%20views&color=0e75b6&style=flat" alt="arnoldaditya17" /> </p>
-
-
-
-<img align="right" alt="coding" width="350"  src="https://github.com/Arnoldaditya17/Arnoldaditya17/blob/main/gif3.gif">
-
-- 👨‍💻 My portfolio Website:- [techwithaditya.in](https://techwithaditya.in/)
-
-- 💬 Ask me about:- **Software Development & Software Architecture**
-
-- 📫 How to reach me:- **adityasinghrajput0217@gmail.com**
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=27&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi+there%2C+I'm+Aditya+Singh+Rajput+%F0%9F%91%8B;Backend+%26+Full-Stack+Engineer;Building+scalable+systems+that+ship;Flutter+%7C+Python+%7C+AWS+%7C+Real-time+Systems" alt="Backend and full-stack engineer" />
+</a>
 
 <br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/adityasinghrajput17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/shredded_banna" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/arnoldaditya17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/adityasinghraj17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/adityasinghrajput0217/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" /></a>
-</p>
 
-<br><br>
-<h3 align="center">🛠 Languages Tools and FrameWorks 🛠</h3>
+<img src="https://komarev.com/ghpvc/?username=arnoldaditya17&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
+<a href="https://techwithaditya.in/"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:adityasinghrajput0217@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/adityasinghrajput17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+</div>
+
+## 👨‍💻 About Me
+
+- 🏗️ Software Engineer focused on **backend engineering, system design, and full-stack development**
+- 🌱 Currently deepening my knowledge of **distributed systems and cloud architecture**
+- 🔭 Building with **Flutter, Python, and AWS** — from mobile clients to the services behind them
+- 💬 Happy to talk shop about **backend architecture, system design, or scaling real-time systems**
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+<b>Languages</b><br><br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+
+</td>
+<td valign="top" width="50%">
+
+<b>Frontend</b><br><br>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
+
+<b>Backend</b><br><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+
+</td>
+<td valign="top" width="50%">
+
+<b>Databases &amp; Cloud</b><br><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" alt="Apache Cassandra" />
+
+</td>
+</tr>
+</table>
+
+<!--
+## 🚀 Featured Projects
+
+Still the biggest gap — badges say what you know, nothing here says what you've built.
+Uncomment and fill in with real repos:
+
+| Project | Stack | What it does |
+| --- | --- | --- |
+| **[repo-name](https://github.com/arnoldaditya17/repo-name)** | NestJS · PostgreSQL · Redis | One line on the problem it solves and the scale it handles |
+| **[repo-name](https://github.com/arnoldaditya17/repo-name)** | Flutter · Firebase | One line on the problem it solves |
+| **[repo-name](https://github.com/arnoldaditya17/repo-name)** | Python · AWS | One line on the problem it solves |
+-->
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=arnoldaditya17&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400&theme=tokyonight" alt="GitHub Stats" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnoldaditya17&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://streak-stats.demolab.com?user=arnoldaditya17&hide_border=true&theme=tokyonight" alt="GitHub Streak" width="88%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnoldaditya17&hide_border=true&area=true&theme=tokyo-night" alt="Contribution Activity Graph" width="88%" />
+
+</div>
+
+## 🌐 Elsewhere
+
+<div align="center">
+
+<a href="https://leetcode.com/u/arnoldaditya17/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.hackerrank.com/profile/adityasinghraj17"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+<a href="https://www.geeksforgeeks.org/user/adityasinghrajput0217/"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://www.instagram.com/shredded_banna"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
+
+<details>
+<summary><b>🐍 Contribution Snake</b></summary>
 <br>
 
-<p align="left">
-  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/arnoldaditya17/arnoldaditya17/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
-<a href="https://appwrite.io" target="_blank" rel="noreferrer">
-  <img src="https://appwrite.io/assets/logomark/logo.svg" alt="appwrite" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
+</details>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-<a href="https://angular.io/" target="_blank" rel="noreferrer">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40" />
-</a>&nbsp;&nbsp;&nbsp;
-
-</p>
+<details>
+<summary><b>⚙️ Snake animation setup</b></summary>
 <br>
 
+Uses [`Platane/snk`](https://github.com/Platane/snk) to turn the contribution graph into an animated snake. Add this at `.github/workflows/snake.yml` in your `<username>/<username>` repo:
 
+```yaml
+name: Generate Snake Animation
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnoldaditya17&show_icons=true&locale=en&layout=compact" alt="arnoldaditya17" /></p>
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # twice a day
+  workflow_dispatch: {}
+  push:
+    branches: [main]
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnoldaditya17&show_icons=true&locale=en" alt="arnoldaditya17" /></p>
+permissions:
+  contents: write
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnoldaditya17&" alt="arnoldaditya17" /></p>
+concurrency:
+  group: snake
+  cancel-in-progress: true
 
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+The SVGs above populate automatically once the workflow has run once.
+
+</details>
+
+<details>
+<summary><b>🩺 If a stats card shows a broken image</b></summary>
+<br>
+
+All three cards come from free shared instances that rate-limit under load. Paste the image URL straight into a browser tab to see the real error.
+
+- **Stats / Top Languages** — if `github-readme-stats.vercel.app` returns "Maximum retries exceeded" or a rate-limit error, fork [`anuraghazra/github-readme-stats`](https://github.com/anuraghazra/github-readme-stats), deploy it to Vercel with your own `PAT_1` token, and swap the domain. Self-hosting is also the only way `count_private=true` actually counts private commits.
+- **Streak Stats** — `streak-stats.demolab.com` is the current official domain; the old `github-readme-streak-stats.herokuapp.com` died with Heroku's free tier. The demo instance does go down periodically — community-maintained mirrors like `github-readme-streak-stats-eight.vercel.app` work as a drop-in swap, or self-host from [`DenverCoder1/github-readme-streak-stats`](https://github.com/DenverCoder1/github-readme-streak-stats).
+- **Blank/empty card instead of an error** usually means the username in the URL doesn't match the account — worth double-checking `arnoldaditya17` in all four URLs.
+
+</details>
+
+<div align="center">
+
+**Building • Learning • Shipping**
+
+</div>
